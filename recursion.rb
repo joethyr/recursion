@@ -10,5 +10,11 @@ def fibs(num)
   a
 end
 
-puts fibs(8)
+def fibs_rec(num)
+  return num if num < 2
 
+  fibs_rec(num-1) + fibs_rec(num-2)
+end
+
+puts fibs(8)
+puts fibs_rec(8)
