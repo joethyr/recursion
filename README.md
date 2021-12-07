@@ -18,4 +18,4 @@ It can be a bit strange to wrap your head around, but just remember you’re “
 
 ## Assignment 2
 
-1. Build a method #merge_sort that takes in an array and returns a sorted array, using a recursive merge sort methodology.
+1. Build a method **_#merge_sort_** that takes in an array and returns a sorted array, using a recursive merge sort methodology.
